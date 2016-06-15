@@ -1,1 +1,2 @@
 # Capstone_CMS
+Project Description: In this project we have redesigned the website and made a personalized Content Management System for "Galt Horticultural Society", which is a non-profit organization working towards promoting Horticulture and gardening. Our system makes it easy for the admin to manage the content over their website by allowing them to update, add, and delete content and upload images. Along with the features to customize or format the content of website.
